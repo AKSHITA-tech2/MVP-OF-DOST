@@ -1,0 +1,530 @@
+question,topic,explanation
+What is the color of the sky?,colors,The sky appears blue due to scattering of sunlight.
+Which animal says "Moo"?,animals,A cow is known for making the sound "moo."
+How many legs does a spider have?,animals,Spiders are arachnids and have 8 legs.
+What do you call a baby dog?,animals,A baby dog is called a puppy.
+What is the color of an apple?,colors,Apples are usually red, but can also be green or yellow.
+Which animal lives in a den?,animals,Bears live in dens, especially during hibernation.
+Which fruit is yellow and curved?,colors,Bananas are typically yellow when ripe and have a curved shape.
+What is the color of a leaf?,colors,Leaves are generally green because of chlorophyll.
+What is the shape of a ball?,shapes,A ball is round in shape.
+What is the color of a sunflower?,colors,Sunflowers are bright yellow in color.
+How many days are there in a week?,numbers,A week has 7 days: Monday to Sunday.
+Which bird says "Tweet"?,animals,Sparrows are small birds known for chirping or tweeting.
+What is the color of grass?,colors,Grass is typically green due to chlorophyll.
+What is the name of the ship that carries passengers over water?,vehicles,A boat is used to carry passengers over water.
+What is the shape of a pencil?,shapes,Pencils are generally long and round in shape.
+What do we wear on our feet?,objects,Shoes are worn to protect the feet.
+Which animal has a long neck?,animals,Giraffes are known for their long necks.
+What is the opposite of hot?,concepts,Cold is the opposite of hot, referring to low temperatures.
+What is the color of a watermelon?,colors,Watermelon has a green outer skin and red juicy interior.
+What do we drink in the morning to stay healthy?,objects,Milk is commonly consumed in the morning for nutrition.
+Which animal has a trunk?,animals,Elephants have a long trunk used to grab food and water.
+How many months are there in a year?,numbers,A year consists of 12 months.
+What do we use to write?,objects,A pencil is used to write on paper.
+Which animal has a shell?,animals,Turtles have a hard outer shell for protection.
+What is the color of a strawberry?,colors,Strawberries are usually red when ripe.
+What is the color of the sun?,colors,The sun appears yellow due to light scattering.
+What sound does a dog make?,sounds,Dogs make a “woof” sound or barking.
+Which vehicle runs on tracks?,vehicles,Trains run on railway tracks transporting passengers and goods.
+What do we use to cut paper?,objects,Scissors are tools used for cutting paper.
+Which animal has a mane?,animals,Lions are known for their thick mane.
+Which country has the highest life expectancy?,geography,Hong Kong has the highest life expectancy in the world.
+What is the most common surname in the United States?,names,Smith is the most common surname in the United States.
+Who was the Ancient Greek God of the Sun?,mythology,Apollo was the Ancient Greek God of the Sun.
+How many minutes are in a full week?,numbers,There are 10,080 minutes in a full week (7 days × 24 hours × 60 minutes).
+Aureolin is a shade of what color?,colors,Aureolin is a shade of yellow.
+How many faces does a Dodecahedron have?,geometry,A dodecahedron has 12 faces.
+What is the 4th letter of the Greek alphabet?,alphabet,The 4th letter of the Greek alphabet is Delta.
+What company was initially known as "Blue Ribbon Sports"?,brands,Nike was initially known as "Blue Ribbon Sports."
+What art form is described as "decorative handwriting or handwritten lettering"?,arts,Calligraphy is the art of decorative handwriting or handwritten lettering.
+What software company is headquartered in Redmond, Washington?,brands,Microsoft is headquartered in Redmond, Washington.
+How many dots appear on a pair of dice?,numbers,A pair of dice has a total of 42 dots.
+What is acrophobia a fear of?,psychology,Acrophobia is the fear of heights.
+December 26 is known by what names in Ireland?,culture,December 26 is known as Saint Stephen's Day in Ireland.
+What phone company produced the 3310?,brands,Nokia produced the iconic phone model 3310.
+What is the world’s largest retailer?,brands,Walmart is the world's largest retailer.
+Which day of the week does the Jewish Sabbath begin?,culture,The Jewish Sabbath begins on Friday evening.
+What is a word, phrase, number, or other sequence of characters that reads the same backward as forward?,language,A palindrome is a sequence of characters that reads the same backward as forward.
+What is the name of the Chinese philosophical system that emphasizes harmony with nature?,philosophy,Taoism is the Chinese philosophical system emphasizing harmony with nature.
+What color is the sun?,science,The sun appears yellow when seen from Earth.
+What shape has three sides?,geometry,A triangle has three sides.
+Which animal is called the king of the jungle?,animals,Lion is called the king of the jungle due to its strength and majesty.
+How many legs does a spider have?,animals,A spider has eight legs.
+Which fruit is yellow and curved?,fruits,A banana is yellow and curved.
+What is the opposite word for hot?,language,The opposite of hot is cold.
+Which month comes after May?,calendar,June is the month that comes after May.
+What is the capital of India?,geography,The capital of India is New Delhi.
+What is the place where students learn subjects?,education,Students learn subjects at school.
+What is the name of Mickey Mouse’s dog?,cartoons,Pluto is Mickey Mouse’s dog.
+Which planet is closest to the sun?,astronomy,Mercury is the closest planet to the sun.
+What is the capital city of Japan?,geography,Tokyo is the capital city of Japan.
+What is the longest river in the world?,geography,The Nile is the longest river in the world.
+What is the hardest natural substance on earth?,science,Diamond is the hardest natural substance on earth.
+Who wrote the play, Romeo and Juliet?,literature,William Shakespeare wrote Romeo and Juliet.
+What is the chemical symbol of gold?,science,The chemical symbol for gold is Au.
+What is the smallest continent by land area?,geography,Australia is the smallest continent by land area.
+What gas do plants need to perform photosynthesis?,science,Plants need carbon dioxide for photosynthesis.
+Who invented the telephone?,history,Alexander Graham Bell invented the telephone.
+Which animal is the largest mammal in the world?,animals,The blue whale is the largest mammal in the world.
+What is the chemical formula for water?,science,The chemical formula for water is H2O.
+Which famous scientist developed the theory of relativity?,science,Albert Einstein developed the theory of relativity.
+Who wrote the series The Song of Ice and Fire?,literature,George R.R. Martin wrote The Song of Ice and Fire.
+Who is known as the father of modern physics?,science,Albert Einstein is known as the father of modern physics.
+What is the capital city of Canada?,geography,Ottawa is the capital city of Canada.
+Which element has the chemical symbol O?,science,Oxygen has the chemical symbol O.
+Who painted the Mona Lisa?,art,Leonardo da Vinci painted the Mona Lisa.
+Which state is called ‘The Last Frontier’?,geography,Alaska is called ‘The Last Frontier.’
+What does DNA stand for?,science,DNA stands for Deoxyribonucleic acid.
+Who is the first Indian woman in space?,history,Kalpana Chawla is the first Indian woman in space.
+What is the largest ocean on earth?,geography,The Pacific Ocean is the largest ocean on Earth.
+Who wrote the play Hamlet?,literature,William Shakespeare wrote Hamlet.
+What is the process by which plants make their food?,science,Plants make their food by photosynthesis.
+Which element has the chemical symbol Na?,science,Sodium has the chemical symbol Na.
+Which country is known as the land of the rising sun?,geography,Japan is known as the land of the rising sun.
+What is the main ingredient of bread?,food,Flour is the main ingredient of bread.
+Who invented the light bulb?,history,Thomas Edison invented the light bulb.
+Which continent is called the darkest continent?,geography,Africa is called the darkest continent.
+Who wrote the diary of a young girl?,history,Anne Frank wrote the diary of a young girl.
+What is the name of the famous clock tower in London?,geography,Big Ben is the famous clock tower in London.
+Which currency is used in Japan?,economics,Yen is the currency used in Japan.
+What is the tallest mountain in the world?,geography,Mount Everest is the tallest mountain in the world.
+What is the capital city of the United States?,geography,Washington DC is the capital city of the United States.
+Which planet is known for its rings?,astronomy,Saturn is known for its rings.
+In which year did World War II end?,history,World War II ended in 1945.
+Who painted the Sistine Chapel ceiling?,art,Michelangelo painted the Sistine Chapel ceiling.
+What is the smallest unit of life?,science,Cell is the smallest unit of life.
+What is the capital city of Australia?,geography,Canberra is the capital city of Australia.
+Who is the first President of India?,history,Dr. Rajendra Prasad was the first President of India.
+What is the name of the toy cowboy in Toy Story?,entertainment,Woody is the toy cowboy in Toy Story.
+Which fruit is known for having seeds on the outside?,fruits,Strawberry is known for having seeds on the outside.
+In which city would you find the Eiffel Tower?,geography,The Eiffel Tower is in Paris.
+What is the name of a snowman in Disney’s Frozen?,entertainment,Olaf is the snowman in Disney’s Frozen.
+What kind of animal is Shrek’s best friend?,entertainment,Donkey is Shrek’s best friend.
+What is the name of the pirate in Peter Pan?,entertainment,Captain Hook is the pirate in Peter Pan.
+What is the name of a bear who loves honey?,literature,Winnie the Pooh is a bear who loves honey.
+What is the name of Hogwarts school headmaster in Harry Potter?,literature,Albus Dumbledore is the headmaster of Hogwarts.
+What type of animal is Commodore Dragon?,animals,Commodore Dragon is a lizard.
+What is the main character’s name in the video game series Super Mario?,entertainment,Mario is the main character in Super Mario.
+What do you call a kangaroo’s baby?,animals,A baby kangaroo is called a Joey.
+In which movie do you find a fish named Nemo?,entertainment,Finding Nemo is the movie featuring a fish named Nemo.
+Which popular toy brand has little plastic figures called minifigures?,toys,Lego is the toy brand with minifigures.
+What is the name of the place where the President of the United States resides?,geography,The White House is where the US President lives.
+Which ocean is the largest?,geography,The Pacific Ocean is the largest ocean.
+Which country is known as “the Land of festivals”?,geography,India is famously called the Land of Festivals due to its numerous cultural and religious festivals.
+Where is Himalayan Mountaineering Institute located?,geography,The Himalayan Mountaineering Institute is located in Darjeeling, India.
+For how many disciplines is Nobel Prize awarded?,history,Nobel Prize is awarded in 6 disciplines: Physics, Chemistry, Medicine, Literature, Economics, and Peace.
+Name the tennis player who is known as “The King of Clay”?,sports,Rafael Nadal is known as The King of Clay for his dominance on clay courts.
+Which Indian city has been declared as World Heritage City (WHC) by UNESCO recently?,geography,Ahmedabad is declared a World Heritage City by UNESCO.
+Who wrote the famous novel “James Pond”?,literature,Ian Lancaster Fleming wrote the famous novel featuring James Bond.
+Who won Oscar award 36 times?,history,Walt Disney won the Oscar award 36 times.
+Who established the first Blood Bank?,history,Bernard Fantus established the first blood bank.
+Who is the Indian to beat the computers in Mathematical Wizardry?,history,Shakuntala Devi was known for beating computers in complex mathematical calculations.
+Which country hosted the 2017 World Petroleum Congress (WPC) International Conference?,geography,Turkey hosted the 2017 World Petroleum Congress.
+Who wrote the book, “India at risk”?,literature,Jaswant Singh wrote the book "India at Risk."
+Where is the International Court of Justice located?,geography,The International Court of Justice is located in The Hague.
+What is Limnology?,science,Limnology is the study of inland aquatic ecosystems, mainly lakes.
+Which city in India is known as the “City of Joy”?,geography,Kolkata is famously known as the City of Joy.
+Who was the first Asian winner of the Nobel Prize?,history,Rabindranath Tagore was the first Asian Nobel laureate.
+question,topic,explanation
+When was the toothbrush invented?,history,The toothbrush was invented in the year 1770.
+Which pair of cities in India is known as the “Twin Cities”?,geography,Hyderabad and Secunderabad are known as the Twin Cities.
+Which city in India is known as the “City of Golden Gate”?,geography,San Francisco is nicknamed the City of Golden Gate after the famous Golden Gate Bridge.
+What is Palaeontology?,science,Palaeontology is the study of fossils.
+Who is known as “A Lady with the Lamp”?,history,Florence Nightingale earned this title for her work during the Crimean War.
+Thomas Cup is associated with which sport?,sports,The Thomas Cup is an international badminton championship.
+What is India’s rank in 2017 Global Cyber Security Index?,technology,India ranked 23rd in the 2017 Global Cyber Security Index.
+Which is the busiest bridge in India?,geography,Howrah Bridge in Kolkata is the busiest bridge in India.
+Which city is known as the “City of Seven Hills”?,geography,Rome in Italy is known as the City of Seven Hills.
+Who was the first woman chief minister of India?,politics,Sucheta Kripalani was the first woman chief minister of India.
+Which country is the leading producer of diamonds?,geography,Russia is the leading producer of diamonds.
+Which vitamin is responsible for the clotting of blood?,science,Vitamin K is responsible for blood clotting.
+Who invented dynamite?,history,Alfred Nobel invented dynamite.
+Where is the headquarters of the United Nations Organisation (UNO) located?,geography,The headquarters of the UNO is located in New York, USA.
+Who invented the Richter scale?,science,Charles Richter invented the Richter scale to measure earthquake magnitudes.
+Who is known as “Indian Bismarck”?,history,Sardar Vallabhbhai Patel is known as the Indian Bismarck for his role in uniting India.
+What is the expansion of DRDL?,technology,DRDL stands for Defence Research and Development Laboratory.
+What is Eugenics?,science,Eugenics is the altering of human beings by changing their genetic components.
+Which country gifted “the Statue of Liberty” to America?,history,France gifted the Statue of Liberty to the United States.
+Which city is known as the “Queen of Arabian Sea”?,geography,Cochin is known as the Queen of Arabian Sea.
+Which is the biggest library in the world?,general knowledge,The Library of Congress in the USA is the biggest library in the world.
+Who was the first woman recipient of the Magsaysay Award?,history,Kiran Bedi was the first woman recipient of the Magsaysay Award.
+Which country is known as the “Land of Thousand Lakes”?,geography,Finland is known as the Land of Thousand Lakes.
+Which country is the leading producer of tea?,geography,China is the leading producer of tea.
+Who was the first woman IAS officer of India?,history,Anna Rajam George was the first woman IAS officer of India.
+Who wrote the book “The God of Small Things”?,literature,Arundhati Roy wrote the book “The God of Small Things”.
+Expand IGNOU.,education,IGNOU stands for Indira Gandhi National Open University.
+Who was the first woman President of the UN General Assembly?,history,Vijaya Lakshmi Pandit was the first woman President of the UN General Assembly.
+Which city in India is known as the “City of Dreams”?,geography,Mumbai is known as the City of Dreams.
+Which is the largest temple in the world?,general knowledge,Angkor Wat in Cambodia is the largest temple in the world.
+Expand OMR.,technology,OMR stands for Optical Mark Reader.
+Which instrument is used to measure blood pressure?,science,Sphygmomanometer is the instrument used to measure blood pressure.
+Which is the World’s lightest satellite launched by NASA recently?,space,Kalam Sat is the world’s lightest satellite launched by NASA.
+Which city is named by UNESCO as the World Book Capital?,general knowledge,Sharjah was named by UNESCO as the World Book Capital.
+What is the theme of 2017 National Youth Day?,current affairs,The theme of 2017 National Youth Day was "Youth for Digital India".
+Which city in India is known as the “White City”?,geography,Udaipur is known as the White City in India.
+Who was the first Indian to win the Golden Globe Award?,entertainment,A. R. Rahman was the first Indian to win the Golden Globe Award.
+Which is the smallest country in the world?,geography,Vatican City is the smallest country in the world.
+When is World Environment Day celebrated?,current affairs,World Environment Day is celebrated on 5th June.
+Name the Indian Chief Minister who received the UN Public Service Award recently.,current affairs,Mamata Banerjee received the UN Public Service Award recently.
+Which is the largest freshwater lake in the world?,geography,Lake Superior in the USA is the largest freshwater lake in the world.
+Which country is known as “the Playground of Europe”?,geography,Switzerland is known as the Playground of Europe.
+Who won the Men’s Singles title in 2017 Wimbledon Tennis Championship?,sports,Roger Federer won the Men’s Singles title in 2017 Wimbledon.
+Where is the “Lord’s Cricket Ground” located?,sports,Lord’s Cricket Ground is located in London, England.
+Which planet has the maximum value of escape velocity?,space,Jupiter has the maximum escape velocity among planets.
+Which Indian city is known as “the City of Pearls”?,geography,Hyderabad is known as the City of Pearls.
+Which city in India was renamed as Varanasi in 1956?,history,Banares was renamed as Varanasi in 1956.
+Expand IBRD.,economics,IBRD stands for International Bank for Reconstruction and Development.
+Which was the first country to conduct Civil Services Competitions?,history,China was the first country to conduct civil services competitions.
+Which is the tallest tower in the world?,geography,Tokyo Skytree in Japan is the tallest tower with a height of 625 meters.
+What is the name of Japan's Parliament?,politics,The Parliament of Japan is called the Diet.
+Which is the highest award given for lifetime achievement in sports and games in India?,sports,Dhyanchand Award is the highest lifetime achievement award in Indian sports.
+Name the central minister who launched the GST Rates Finder App.,current affairs,Finance Minister Arun Jaitley launched the GST Rates Finder App.
+Name the Indian king who was known as “Napoleon of India”.,history,Samudra Gupta was known as the Napoleon of India.
+Which country is known as “the Land of Morning Calm”?,geography,Korea is known as the Land of Morning Calm.
+Which is the national aquatic animal of India?,biology,Gangetic Dolphin is the national aquatic animal of India.
+Which is the world’s busiest airport?,geography,Hartsfield-Jackson Airport in Atlanta is the world’s busiest airport.
+Where is the Ghana Bird Sanctuary located?,geography,Ghana Bird Sanctuary is located in Rajasthan, India.
+Who coined the term “Green Revolution”?,history,Dr. William Gaud coined the term Green Revolution.
+Which is the first country to make a constitution?,history,The United States of America was the first country to make a constitution.
+What is the ratio of width of our national flag to its length?,general knowledge,The ratio of the width to length of the Indian national flag is 2:3.
+Where is the headquarters of Sahitya Akademi located?,literature,The headquarters of Sahitya Akademi is located in New Delhi.
+Which is the longest river in India?,geography,The Ganges is the longest river in India.
+How many countries share their borderline with India?,geography,India shares its border with 7 countries: Bangladesh, Myanmar, Bhutan, China, Nepal, Afghanistan, Pakistan.
+Rabindranath Tagore’s “Jana Gana Mana” was adopted as India’s National Anthem. How many stanzas of the song were adopted?,history,Only the 1st stanza of the song was adopted as India’s National Anthem, although the song has 5 stanzas.
+Who composed the national song of India “Vande Mataram”?,literature,Bankim Chandra Chatterji composed the national song “Vande Mataram.”
+Who is the present Chief Election Commissioner of India?,current affairs,Achal Kumar Jyoti is the present Chief Election Commissioner of India.
+Who founded Nalanda University?,history,Kumara Gupta founded the ancient Nalanda University.
+What is Biogeography?,science,Biogeography is the study of the relationship of organisms with their environment.
+Which is the junction point of the Eastern and Western Ghats?,geography,Nilgiri Hills is the junction point of the Eastern and Western Ghats.
+Which city is known as the “Forbidden City”?,geography,Lhasa in Tibet is known as the “Forbidden City.”
+Who was the first woman to receive Bharat Ratna?,history,Former Prime Minister Mrs. Indira Gandhi was the first woman to receive Bharat Ratna.
+Which is the longest dam in India?,geography,Hirakud Dam in Odisha is the longest dam in India.
+Who is known as “the Man of Destiny”?,history,Napoleon Bonaparte is known as “the Man of Destiny.”
+When is World Tourism Day observed?,general knowledge,World Tourism Day is observed on 27th September.
+Which city is known as the “Chocolate City”?,geography,Washington is known as the “Chocolate City.”
+Who wrote the book “The Road Ahead”?,literature,Bill Gates wrote the book “The Road Ahead.”
+Who is the present Central Minister of Women Welfare and Child Development?,current affairs,Mrs. Menaka Sanjay Gandhi is the present Central Minister of Women Welfare and Child Development.
+What is Exobiology?,science,Exobiology is the study of life in outer space.
+Expand GPRS.,technology,GPRS stands for General Packet Radio Service.
+Who is the present Central Minister of Youth Affairs and Sports?,current affairs,Col. RajyaVardhan Singh Rathore is the present Central Minister of Youth Affairs and Sports.
+Who wrote the Tamil novel “Sila Nerangalil Sila Manidhargal”?,literature,Jayakanthan wrote the Tamil novel “Sila Nerangalil Sila Manidhargal.”
+What is the expansion of WMO?,organization,WMO stands for World Meteorological Organisation.
+Which country is known as “the Land of Maple”?,geography,Canada is known as “the Land of Maple.”
+When is International Youth’s Day celebrated?,general knowledge,International Youth’s Day is celebrated on 12th August.
+What is the name of the award given for excellence in space research in India?,science,Vikram Sarabhai Award is given for excellence in space research in India.
+Who was the first Indian to receive the Nobel Prize in Economics?,history,Amartya Sen was the first Indian to receive the Nobel Prize in Economics.
+Where is Kaziranga Park located?,geography,Kaziranga Park is located in Assam.
+Which is the highest gallantry award in India?,history,Param Vir Chakra is the highest gallantry award in India.
+When is National Statistics Day celebrated?,general knowledge,National Statistics Day is celebrated on 29th June.
+What is the expansion of USB?,technology,USB stands for Universal Serial Bus.
+Who was the first Indian to become a member of the British Parliament?,history,Dadabhai Naoroji was the first Indian member of the British Parliament.
+What is the total duration of a football match?,sports,A football match lasts 2 hours and 45 minutes including breaks and extra time.
+Who wrote the book “Discovery of India”?,literature,Pandit Jawaharlal Nehru wrote the book “Discovery of India.”
+In which year was the Pulitzer Prize introduced?,history,The Pulitzer Prize was introduced in the year 1917.
+Which was the first country to conduct Civil Services Competitions?,history,China was the first country to conduct civil services competitions.
+Which is the tallest tower in the world?,geography,Tokyo Skytree in Japan is the tallest tower with a height of 625 meters.
+What is the name of Japan's Parliament?,politics,The Parliament of Japan is called the Diet.
+Which is the highest award given for lifetime achievement in sports and games in India?,sports,Dhyanchand Award is the highest lifetime achievement award in Indian sports.
+Name the central minister who launched the GST Rates Finder App.,current affairs,Finance Minister Arun Jaitley launched the GST Rates Finder App.
+Name the Indian king who was known as “Napoleon of India”.,history,Samudra Gupta was known as the Napoleon of India.
+Which country is known as “the Land of Morning Calm”?,geography,Korea is known as the Land of Morning Calm.
+Which is the national aquatic animal of India?,biology,Gangetic Dolphin is the national aquatic animal of India.
+Which is the world’s busiest airport?,geography,Hartsfield-Jackson Airport in Atlanta is the world’s busiest airport.
+Where is the Ghana Bird Sanctuary located?,geography,Ghana Bird Sanctuary is located in Rajasthan, India.
+Who coined the term “Green Revolution”?,history,Dr. William Gaud coined the term Green Revolution.
+Which is the first country to make a constitution?,history,The United States of America was the first country to make a constitution.
+What is the ratio of width of our national flag to its length?,general knowledge,The ratio of the width to length of the Indian national flag is 2:3.
+Where is the headquarters of Sahitya Akademi located?,literature,The headquarters of Sahitya Akademi is located in New Delhi.
+Which is the longest river in India?,geography,The Ganges is the longest river in India.
+Who is the current CM of Delhi in 2025?,current affairs,The current Chief Minister of Delhi in 2025 is Rekha Gupta.
+How many women have served as Chief Ministers in India so far?,current affairs,So far, 18 women have served as Chief Ministers in India.
+Who is the education minister of India?,current affairs,Dharmendra Pradhan is the Education Minister of India.
+Who invented computer?,history,Charles Babbage invented the concept of the computer.
+Who discovered cell?,biology,Robert Hooke discovered cells.
+When is Sarojini Naidu’s birth anniversary?,history,Sarojini Naidu’s birth anniversary is on February 13.
+Name the first Indian woman President of the Indian National Congress.,history,Sarojini Naidu was the first Indian woman President of the Indian National Congress.
+When do we observe Pi Day?,general knowledge,Pi Day is observed on March 14.
+How long is the Valentine week?,general knowledge,Valentine week lasts 7 days, from February 7 to February 14.
+When do we observe Shivaji Maharaj Jayanti?,history,Shivaji Maharaj Jayanti is observed on February 19.
+NASA astronauts Sunita Williams and Butch Wilmore have been living on the International Space Station since when?,science and technology,NASA astronauts Sunita Williams and Butch Wilmore have been living on the International Space Station since June 2024.
+What is voter turnout?,politics,Voter turnout is the percentage of eligible voters who cast their ballots in an election, indicating public participation.
+What is the full form of GBS?,general knowledge,The full form of GBS is Guillain-Barré syndrome.
+When do we celebrate International Women’s Day?,current affairs,International Women’s Day is celebrated on March 8.
+What is the theme of National Science Day in 2025?,science,The theme of National Science Day in 2025 is "Empowering Indian Youth for Global Leadership in Science & Innovation for Viksit Bharat."
+Why do we celebrate National Science Day?,science,National Science Day is celebrated to commemorate the anniversary of Sir C.V. Raman’s discovery of the ‘Raman Effect’ in 1928.
+What is the Raman effect?,science,The Raman Effect is the phenomenon where light changes its wavelength after scattering through a material.
+What was the magnitude of the earthquake that struck Nepal on February 28?,current affairs,The earthquake that struck Nepal on February 28 had a magnitude of 6.1.
+What is Pope Francis’s birth name?,biography,Jorge Mario Bergoglio is the birth name of Pope Francis.
+In which year was he chosen as pope?,history,Pope Francis was chosen in the year 2013.
+What profession did he have prior to entering the priesthood?,biography,He worked as a chemical technician and also as a nightclub bouncer before entering the priesthood.
+Why did he choose the name “Francis”?,religion,He chose the name Francis in honor of Saint Francis of Assisi to reflect humility, poverty, and care for the environment.
+What’s one historic “first” about his papacy?,history,He is the first pope from the Americas and the first Jesuit pope.
+How long was Pope Francis pope?,history,He became pope in 2013 and continued to serve until his passing or resignation.
+Which languages could Pope Francis speak?,biography,Pope Francis could speak Spanish, Italian, Latin, and conversational English, French, and German.
+What does Laudato Si’ focus on?,religion,Laudato Si’ focuses on environmental care and action against climate change.
+What’s his most quoted line about LGBTQ+ individuals?,quotes,“Who am I to judge?” is Pope Francis’s most quoted line regarding LGBTQ+ individuals.
+What illness did he live with since youth?,biography,Pope Francis had part of one lung removed due to a serious infection in his youth.
+Which major church event did he introduce to promote inclusion?,religion,He introduced the Synod on Synodality to make the Church more inclusive and participatory.
+In which part of the Vatican did he reside?,biography,He lived in the Domus Sanctae Marthae instead of the Apostolic Palace to reflect simplicity.
+What type of economic model did he describe as one “that kills”?,economy,He criticized unfettered capitalism and consumerism as an economic model “that kills.”
+What personal item did he bring with him to the office?,biography,He carried a simple black briefcase, symbolizing humility and simplicity.
+What central theme was explored in Fratelli Tutti?,religion,Fratelli Tutti explores the themes of human fraternity and social friendship.
+What was his attitude toward other faiths?,religion,He promoted dialogue, respect, and collaboration with other religions.
+How did he relate prayer to taking action?,quotes,He emphasized that prayer should lead to action, saying, “You pray for the hungry, then you feed them.”
+Which major international event for youth did he advocate?,religion,Pope Francis advocated for World Youth Day, an international event for young Catholics.
+Did he support the blessing of same-sex unions?,religion,Yes, Pope Francis approved blessings for same-sex couples under certain conditions, though not equating it to marriage.
+Who is the next pope?,religion,The next pope will be chosen by the College of Cardinals in a conclave after Pope Francis’s resignation or death.
+What happens when the pope dies?,religion,When a pope dies, a mourning period follows, the papal ring is destroyed, and a conclave elects the new pope.
+Where was Pope Francis from?,biography,Pope Francis was born in Buenos Aires, Argentina.
+Who was the first President of the United States?,history,George Washington was the first President of the United States.
+Which planet is known as the “Morning Star” or “Evening Star”?,science,Venus is known as the Morning Star or Evening Star.
+Who is the author of the “Harry Potter” book series?,literature,J.K. Rowling is the author of the Harry Potter series.
+What is the capital city of Canada?,geography,Ottawa is the capital city of Canada.
+Which element has the chemical symbol ‘O’ and is essential for respiration?,science,Oxygen has the chemical symbol ‘O’ and is essential for respiration.
+In which year did the Titanic sink?,history,The Titanic sank in the year 1912.
+What is the hardest natural substance on Earth?,science,Diamond is the hardest natural substance on Earth.
+Who painted the famous artwork “The Starry Night”?,art,Vincent van Gogh painted “The Starry Night.”
+Which country is known as the Land of the Rising Sun?,geography,Japan is known as the Land of the Rising Sun.
+What is the smallest prime number?,math,The smallest prime number is 2.
+Who was the first woman to win a Nobel Prize?,history,Marie Curie was the first woman to win a Nobel Prize.
+Which ocean is the largest by surface area?,geography,The Pacific Ocean is the largest ocean by surface area.
+What is the main ingredient in traditional Japanese miso soup?,food,Fermented soybean paste (miso) is the main ingredient in traditional Japanese miso soup.
+Which planet has the most moons in our solar system?,science,Saturn has the most moons in our solar system.
+Who wrote the play “Romeo and Juliet”?,literature,William Shakespeare wrote the play “Romeo and Juliet.”
+What is the chemical formula for table salt?,science,The chemical formula for table salt is NaCl (sodium chloride).
+What is the tallest mountain in the world?,geography,Mount Everest is the tallest mountain in the world.
+Who invented the light bulb?,history,Thomas Edison invented the light bulb.
+What is the national animal of India?,national symbols,The Bengal Tiger is the national animal of India.
+How many continents are there in the world?,geography,There are seven continents in the world.
+Who was the first Prime Minister of India?,history,Jawaharlal Nehru was the first Prime Minister of India.
+When is Hindi Diwas celebrated in India?,culture,Hindi Diwas is celebrated on 14th September in India.
+What is India’s national animal?,national symbols,The Bengal Tiger is India’s national animal.
+Which is the longest dam in India?,geography,Hirakud Dam is the longest dam in India.
+Who is the author of “Ramayana”?,literature,Valmiki is the author of the Ramayana.
+Who is known as the Father of Modern India?,history,Raja Ram Mohan Roy is known as the Father of Modern India.
+What is the capital of Gujarat?,geography,Gandhinagar is the capital of Gujarat.
+Who is known as the “Missile Man of India”?,history,Dr. A.P.J. Abdul Kalam is known as the Missile Man of India.
+Which is the largest state in India by area?,geography,Rajasthan is the largest state in India by area.
+Who wrote the Indian national anthem “Jana Gana Mana”?,literature,Rabindranath Tagore wrote the Indian national anthem.
+Who wrote the National Song of India “Vande Mataram”?,literature,Bankim Chandra Chattopadhyay wrote “Vande Mataram.”
+What is the national fruit of India?,national symbols,Mango is the national fruit of India.
+Who was the first Indian woman to win an Olympic medal?,sports,Karnam Malleswari was the first Indian woman to win an Olympic medal.
+Who was the first President of India?,history,Dr. Rajendra Prasad was the first President of India.
+Who is known as the Nightingale of India?,history,Sarojini Naidu is known as the Nightingale of India.
+Which Indian state is known for its classical dance, Bharatnatyam?,culture,Tamil Nadu is known for Bharatnatyam dance.
+What is the capital of Andhra Pradesh?,geography,Amaravati is the capital of Andhra Pradesh.
+Who is known as the Father of Indian Cinema?,history,Dadasaheb Phalke is known as the Father of Indian Cinema.
+What is the name of the Indian national emblem?,national symbols,Lion Capital of Ashoka is the Indian national emblem.
+Who was the first Indian to travel in space?,history,Rakesh Sharma was the first Indian to travel in space.
+What is the name of the first Indian aircraft carrier?,military,INS Vikrant was the first Indian aircraft carrier.
+Who is known as the First Citizen of India?,politics,The President of India is known as the First Citizen of India.
+What is the capital of Assam?,geography,Dispur is the capital of Assam.
+Which Indian state government has decided to transfer 14 tigers to Rajasthan, Odisha, and Chhatisgarh?,environment,Madhya Pradesh decided to transfer 14 tigers.
+Who became the fastest Indian bowler to take 200 wickets in Test cricket?,sports,Jaspreet Bumrah became the fastest Indian to reach 200 wickets.
+Dilip Shankar passed away on 29 December 2024. Who was he?,entertainment,Dilip Shankar was a Film and TV actor.
+Which chess player has recently left the FIDE World Rapid and Blitz Chess Championship due to dress code?,sports,Magnus Carlsen left the championship due to dress code issues.
+Which Indian player won a bronze medal at the recently held King Cup International Badminton 2024?,sports,Lakshya Sen won a bronze medal.
+Where did the Indian Army reveal the grand statue of Chhatrapati Shivaji Maharaj?,history,Pangong Tso, Ladakh is the location of the statue.
+Which Indian government department has recently partnered with boAt to support startups?,economy,Department for Promotion of Industry and Internal Trade (DPIIT) partnered with boAt.
+Which Indian government has recently launched the ‘SWAR’ platform?,government,Gujarat launched the ‘SWAR’ platform.
+What is the aim of Gujarat’s new initiative SWAR?,government,SWAR aims to overcome language barriers.
+What was the average growth rate of India during Dr Manmohan Singh’s time as Prime Minister?,economy,The average growth rate was 7.7%.
+Who was the 14th Prime Minister of India?,history,Manmohan Singh was the 14th Prime Minister of India.
+Which position did India reach in the global economy by 2014 under Dr. Manmohan Singh?,economy,India reached the third position.
+When did Dr. Manmohan Singh serve as the Finance Minister of India?,history,He served from 1991-1996.
+Which prestigious award did Dr. Manmohan Singh receive in 1987?,awards,He received the Padma Vibhushan in 1987.
+Where will the last rites of former Prime Minister Manmohan Singh be performed?,history,Nigambodh Ghat is where the last rites will be performed.
+What is the significance of 28 December in India?,culture,It marks the birth anniversary of Ratan Tata.
+When did Prime Minister Narendra Modi chair the 45th meeting of PRAGATI?,government,December 26, 2024.
+The Kharsawan Massacre happened in which current state?,history,Jharkhand is the current state.
+Who has been appointed as the new Managing Director by the skincare brand ‘Nivea India’?,business,Geetika Mehta has been appointed.
+What is the significance of 26 January in India?,culture,It commemorates the adoption of the Constitution of India.
+Who has been recently appointed as the new Chief of Materiel of the Indian Navy?,military,Vice Admiral Kiran Deshmukh was appointed.
+Which Indian state is the host of the National SARAS Mela 2025?,culture,Kerala is the host state.
+Name the national river of India.,geography,Ganga River is the national river of India.
+When was India’s first Coastline-Waders Bird Census conducted and where?,environment,It was conducted on January 3, 2025 at Marine National Park, Jamnagar, Gujarat.
+Why is Lohri celebrated in India?,culture,Lohri marks the end of the sowing season and seeks blessings for a good harvest.
+Why is NRI or Pravasi Bharatiya Divas celebrated in India?,culture,It acknowledges contributions of overseas Indians to India's development.
+When do we observe Lal Bahadur Shastri’s death anniversary?,history,It is observed on 11 January.
+Every year India celebrates National Youth Day on 12 January. What is its significance?,culture,It marks the birth anniversary of Swami Vivekananda.
+When is Indian Army Day in 2025?,military,Indian Army Day is on 15 January 2025.
+When do we celebrate Netaji Subhas Chandra Bose Jayanti?,history,It is celebrated on 23 January.
+Name the institute which made an appearance in the news recently for developing a bacteria to combat soil pollution and boost agriculture.,science,IIT Bombay developed the bacteria.
+Which Indian state made the significant documentation with the first-ever recording of the Banded Royal butterfly?,environment,Tripura made the documentation.
+Name the bird known for its unique ability to mimic human speech.,science,The Parrot is known for mimicking human speech.
+Who is the current President of India?,politics,Droupadi Murmu is the current President of India.
+Which is the longest river in India?,geography,The Ganges River is the longest river in India.
+What is the national flower of India?,national symbols,Lotus is the national flower of India.
+What is the capital of India?,geography,New Delhi is the capital of India.
+Who is known as the Father of the Nation in India?,history,Mahatma Gandhi is known as the Father of the Nation.
+Which festival is known as the “Festival of Lights”?,culture,Diwali is known as the Festival of Lights.
+Which Indian cricketer is known as the “God of Cricket”?,sports,Sachin Tendulkar is known as the God of Cricket.
+When was the Constitution of India adopted?,history,It was adopted on November 26, 1949.
+What is the significance of Republic Day in India?,culture,Republic Day marks the adoption of India's constitution.
+When was the first Republic Day parade held at Rajpath?,history,The first parade was held in 1955.
+Who unfurls the national flag of India during the parade?,government,The President of India unfurls the national flag.
+How many tableaux will be there in the Republic Day parade of 2025?,culture,There will be 31 tableaux in 2025.
+What is the theme of Republic Day in 2025?,culture,The theme is "Swarnim Bharat: Virasat aur Vikas."
+When do we celebrate National Girl Child Day?,culture,National Girl Child Day is observed on 24 January.
+Why do we celebrate National Voters Day?,culture,It encourages young voters to participate in politics.
+Who is the President of India as of 2025?,general knowledge,Droupadi Murmu
+What is the national bird of India?,general knowledge,Indian Peacock
+Which planet is known as the Red Planet?,science,Mars
+Who wrote the Indian national anthem?,literature,Rabindranath Tagore
+What is the capital city of Australia?,geography,Canberra
+Which is the longest river in the world?,geography,Nile River
+Who invented the light bulb?,science,Thomas Edison
+What is the currency of Japan?,economics,Yen
+Which gas do plants absorb from the atmosphere?,biology,Carbon Dioxide
+What is the largest continent in the world?,geography,Asia
+What is the full form of KFC?,abbreviations,Kentucky Fried Chicken
+What is the full form of VIP?,abbreviations,Very Important Person
+What is the full form of LOL?,abbreviations,Laugh Out Loud
+What is the full form of ATM?,abbreviations,Automated Teller Machine
+What is the full form of SIM?,abbreviations,Subscriber Identity Module
+What is the full form of OTP?,abbreviations,One-Time Password
+What is the full form of WIFI?,abbreviations,Wireless Fidelity
+What is the full name of gif?,abbreviations,Graphics Interchange Format
+What is the full form of AI?,abbreviations,Artificial Intelligence
+What is the full form of CCTV?,abbreviations,Closed-Circuit Television
+What is the full form of CEO?,abbreviations,Chief Executive Officer
+What is the full form of TV?,abbreviations,Television
+What is the hardest natural substance on Earth?,general knowledge,Diamond
+Who was the first person to land on the moon?,history,Neil Armstrong
+What is the capital of France?,geography,Paris
+Who wrote the play “Romeo and Juliet”?,literature,William Shakespeare
+What is the largest active volcano in the world?,geography,Mauna Loa
+What is the largest freshwater lake by volume?,geography,Lake Baikal
+Which country invented the printing press?,history,China
+What is the smallest country by area?,geography,Vatican City
+Who was the first President of the United States?,history,George Washington
+How many continents are there?,geography,Seven
+Who wrote the famous book “1984”?,literature,George Orwell
+What is the capital of Japan?,geography,Tokyo
+What does AQI stand for?,environment,Air Quality Index
+Which gas is the main component of clean air?,science,Nitrogen
+Which device is commonly used to measure air quality?,science,Air Quality Monitor
+Which layer of the atmosphere protects us from UV radiation?,science,Stratosphere
+What is the last day of December called?,general knowledge,New Year’s Eve
+Which is the shortest day of the year in December called?,general knowledge,Winter Solstice
+What special day is observed on December 1st to spread health awareness?,general knowledge,World AIDS Day
+When is Boxing Day celebrated globally?,general knowledge,December 26
+What Jewish festival is celebrated in December?,culture,Hanukkah
+When is UNICEF Foundation Day observed?,general knowledge,December 11
+What special day is celebrated on December 14 in India?,general knowledge,National Energy Conservation Day
+When is Goa Liberation Day celebrated?,history,December 19
+What is the currency of China?,economics,Renminbi (Yuan)
+Which bird has been recognised as the National Bird of the United States?,general knowledge,The Bald Eagle
+China has recently approved the construction of the world’s largest dam on which river?,geography,Brahmaputra river
+Where is the 18th Elephant and Tourism Festival being celebrated?,culture,Nepal
+Who won the 2024 FIDE Women’s World Rapid Chess Championship?,sports,Koneru Humpy
+Who is the world’s second youngest to scale Mount Everest from the Nepal side?,sports,Kamya Karthikeyan
+The government of which country has impeached its acting president in December 2024?,politics,South Korea
+Which country will be hosting the World Audio Visual & Entertainment Summit (WAVES) in 2025?,general knowledge,India
+Which country has recently reported the Norovirus outbreak in December 2024?,health,United States
+Name the country that recently filed a case against Israel at the International Court of Justice accusing it of genocide.,politics,South Africa
+Which player won the Scottish Junior Open Squash Under-19 title?,sports,Anhat Singh
+Which important international day will be observed on January 4 2025?,general knowledge,World Braille Day
+Name the new law which Switzerland is implementing starting January 1, 2025, regarding facial coverings.,law,Burqa Ban
+Name the new tax introduced in Russia starting January 1, 2025.,economics,Tourist tax
+In January 2025, China is facing a new virus called the HMPV virus. What are its symptoms?,health,Flu-like and similar to COVID-19
+Name the country which has recently launched the CR450 prototype, the world’s fastest high-speed train.,technology,China
+Who wrote the famous play, Romeo and Juliet?,literature,William Shakespeare
+Name the smallest country in the world.,geography,Vatican City
+Which is the longest river in the world?,geography,Nile River
+Who painted the Mona Lisa?,art,Leonardo da Vinci
+Name the largest continent in the world.,geography,Asia
+What is the boiling point of water in Celsius?,science,100 degrees C
+Which country is known as the Land of the Rising Sun?,geography,Japan
+Who invented the telephone?,science,Alexander Graham Bell
+Which continent is known as the Dark Continent?,geography,Africa
+How many days are there in a leap year?,science,366
+What is the national bird of India?,general knowledge,Peacock
+What is the smallest two-digit number?,mathematics,10
+What is the process by which plants make their food called?,biology,Photosynthesis
+What is the hardest natural substance on Earth?,general knowledge,Diamond
+Who wrote the famous book Harry Potter?,literature,J.K. Rowling
+What is the smallest bone in the human body?,biology,Stapes (in the ear)
+What is the currency of Japan?,economics,Yen
+How many bones are there in the human body?,biology,206 bones
+What is the largest desert in the world?,geography,Sahara Desert
+Who discovered gravity?,science,Isaac Newton
+How many colors are there in a rainbow?,science,7
+Which animal is known for its ability to change colors?,biology,Chameleon
+What is the main ingredient in guacamole?,food,Avocado
+Which animal is the symbol of Australia?,general knowledge,Kangaroo
+Which fruit is known for having its seeds on the outside?,general knowledge,Strawberry
+What is the main language spoken in Brazil?,geography,Portuguese
+Which fruit is known as the “king of fruits”?,general knowledge,Durian
+Who is the author of the book “The Diary of a Young Girl”?,literature,Anne Frank
+What is the largest island in the world?,geography,Greenland
+What is the currency of the United States?,economics,Dollar
+Which month of the year has the least number of days?,general knowledge,February
+What is the shape of the Earth?,science,Spherical
+Which planet is known as the “Morning Star” and “Evening Star”?,science,Venus
+What is the name of the famous clock tower in London?,general knowledge,Big Ben
+What is the name of the first artificial satellite launched into space?,science,Sputnik 1
+Who is the author of the book “Matilda”?,literature,Roald Dahl
+In which year did India become a republic?,history,1950
+Which is the only continent without a desert?,geography,Europe
+What is the national animal of China?,general knowledge,Giant Panda
+question,topic,answer
+Who is the author of Mahabharata?,Mahabharata,Vyasa
+Who is the eldest Pandava?,Mahabharata,Yudhishthira
+Who is the mother of the Kauravas?,Mahabharata,Gandhari
+What is the name of Arjuna’s bow?,Mahabharata,Gandiva
+Who is the father of Bhishma?,Mahabharata,Shantanu
+Who is the wife of the Pandavas?,Mahabharata,Draupadi
+Who is the charioteer of Arjuna?,Mahabharata,Krishna
+Who is known as the son of the wind god?,Mahabharata,Bhima
+Who is the guru of the Pandavas and Kauravas?,Mahabharata,Drona
+Who is the eldest Kaurava?,Mahabharata,Duryodhana
+Who killed Drona in the Mahabharata?,Mahabharata,Dhrishtadyumna
+Who is the blind king of Hastinapura?,Mahabharata,Dhritarashtra
+Who is the father of Karna?,Mahabharata,Surya
+Who is the sister of Krishna?,Mahabharata,Subhadra
+What is the name of the kingdom ruled by the Pandavas?,Mahabharata,Indraprastha
+Who is the wife of Abhimanyu?,Mahabharata,Uttara
+Who is the son of Arjuna and Subhadra?,Mahabharata,Abhimanyu
+What is the name of Karna’s foster mother?,Mahabharata,Radha
+Who is the mother of the Pandavas?,Mahabharata,Kunti
+Who performed the last rites of Bhishma?,Mahabharata,Yudhishthira
+What is the name of the celestial weapon given to Arjuna by Indra?,Mahabharata,Vajra
+Who is the king of Panchala?,Mahabharata,Drupada
+Who is the son of Drona?,Mahabharata,Ashwatthama
+Who is known as the son of the sun god?,Mahabharata,Karna
+Who is the warrior with a thousand sons?,Mahabharata,Bhishma
+Who is the brother of Gandhari?,Mahabharata,Shakuni
+Who is the charioteer of Karna?,Mahabharata,Shalya
+What is the name of the city built by Maya for the Pandavas?,Mahabharata,Indraprastha
+Who is the eldest son of Kunti?,Mahabharata,Karna
+Who is the commander of the Kaurava army after Bhishma?,Mahabharata,Drona
+Who cursed Krishna’s dynasty to perish?,Mahabharata,Gandhari
+What is the name of the forest where the Pandavas spent their exile?,Mahabharata,Kamyaka
+Who was the father of Shikhandi?,Mahabharata,Drupada
+Who is the husband of Devaki?,Mahabharata,Vasudeva
+Who is the demon killed by Bhima in the forest?,Mahabharata,Hidimba
+Who is the mother of Ashwatthama?,Mahabharata,Kripi
+Who is the king of the Gandharvas?,Mahabharata,Chitrasena
+Who did Arjuna marry during his exile?,Mahabharata,Ulupi
+Who was the ruler of the Kingdom of Anga?,Mahabharata,Karna
+Who wrote the Bhagavad Gita?,Mahabharata,Vyasa
+Who is known for his vow of celibacy?,Mahabharata,Bhishma
+Who is the son of Duryodhana?,Mahabharata,Lakshmana
+Who is the wife of Bhima?,Mahabharata,Hidimbi
+Who is the son of Ghatotkacha?,Mahabharata,Barbarika
+Who is the father of Abhimanyu?,Mahabharata,Arjuna
+Who is the second Pandava brother?,Mahabharata,Bhima
+Who is the mother of Nakula and Sahadeva?,Mahabharata,Madri
+Who was the teacher of Bhishma?,Mahabharata,Parashurama
+Who is the goddess of wealth worshipped by Draupadi?,Mahabharata,Lakshmi
+Who is the son of Drupada and brother of Draupadi?,Mahabharata,Dhrishtadyumna
+Who is the chief minister of Hastinapura?,Mahabharata,Vidura
+Who is the father of Shakuni?,Mahabharata,Subala
+Who is known for his knowledge of Dharma in the Mahabharata?,Mahabharata,Yudhishthira
+Who is the uncle of the Pandavas?,Mahabharata,Vidura
+Who was the son of Dushasana?,Mahabharata,Dushman
+Who is the divine architect who built Indraprastha?,Mahabharata,Maya
+Who is the son of Arjuna and Chitrangada?,Mahabharata,Babruvahana
+Who was the last commander-in-chief of the Kaurava army?,Mahabharata,Ashwatthama
